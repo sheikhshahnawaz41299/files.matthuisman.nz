@@ -1,0 +1,8 @@
+sudo wget -O /usr/sbin/gdrivedl 'https://f.mjh.nz/gdrivedl'
+sudo chmod +x /usr/sbin/gdrivedl
+
+gdrivedl 'LINK'
+
+gdrivedl https://drive.google.com/open?id=1sNhrr2u6n48vb5xuOe8P9pTayojQoOc_
+gdrivedl https://drive.google.com/file/d/1sNhrr2u6n48vb5xuOe8P9pTayojQoOc_/view?usp=sharing
+gdrivedl 1sNhrr2u6n48vb5xuOe8P9pTayojQoOc_
